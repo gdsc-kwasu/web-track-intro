@@ -1,0 +1,33 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-size: 18px;
+}
+.container {
+    height: 100vh;
+    background-color: #00a8ff;
+    padding-top: 10%;
+    color: #fff;
+}
+
+.row{
+    width: 45%;
+    text-align: center;
+    margin: auto auto;
+}
+
+.btn {
+    padding: 10px 25px;
+    border: none;
+    border-radius: 5px;
+}
+.btn:hover {
+    background-color: #005f97;
+    color: #fff;
+    cursor: pointer;
+}
+@media screen and (max-width: 568px){
+    .row {
+        width: 100%;
+    }
+}

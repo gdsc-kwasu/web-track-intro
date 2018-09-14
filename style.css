@@ -1,0 +1,38 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    background-color: #f5f6fa;
+    margin: 0;
+}
+.section {
+    color: #fff;
+    padding: 47px 70px;
+    text-transform: uppercase;
+}
+
+.section > span {
+    font-weight: bolder;
+    font-family: "Open Sans", sans-serif;
+    font-size: 24px;
+}
+
+.blue {
+    background-color: #00a8ff;
+}
+
+.green {
+    background-color: #4cd137;
+}
+
+.periwinkle {
+    background-color: #9c88ff;
+}
+
+.red {
+    background-color: #c23616;
+}
+
+.night {
+    background-color: #353b48;
+}
